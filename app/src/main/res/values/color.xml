@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="title_bg">#222</color>
+    <color name="title_text">#EEE</color>
+    <color name="cold">#314755e5</color>
+    <color name="hot">#31e51c44</color>
+</resources>

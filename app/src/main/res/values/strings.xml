@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Покания счетчиков</string>
+    <string name="action_history">История</string>
+    <string name="action_settings">Настройки</string>
+    <string name="main_info_title">Информация:</string>
+    <string name="main_prev_title">Предыдущие:</string>
+    <string name="main_cur_title">Текущие:</string>
+    <string name="main_flat">Квартира:</string>
+    <string name="main_email">Email:</string>
+    <string name="main_from">С:</string>
+    <string name="main_to">По:</string>
+    <string name="main_cold">Х.С.В:</string>
+    <string name="main_hot">Г.С.В:</string>
+    <string name="main_send">"Отправить"</string>
+    <string name="main_dif_title">Разница:</string>
+    <string name="main_validation_fail">"Ошибка при заполнении: "</string>
+    <string name="main_flat_fail">"номер квартиры "</string>
+    <string name="main_email_fail">"email "</string>
+    <string name="main_from_fail">"предыдущая дата "</string>
+    <string name="main_to_fail">"текущая дата "</string>
+    <string name="main_prev_cold_fail">"предыдущие показания Х.С.В "</string>
+    <string name="main_prev_hot_fail">"предыдущие показания Г.С.В "</string>
+    <string name="main_cur_cold_fail">"текущие показания Х.С.В "</string>
+    <string name="main_cur_hot_fail">"текущие показания Г.С.В "</string>
+    <string name="msg_send">Данные отправлены</string>
+    <string name="email_avangard">avangard.1963@mail.ru </string>
+    <string name="email_sender">gviryaskin@gmail.com</string>
+    <string name="email_sender_password">primary01</string>
+    <string name="email_title">Кв. %s показания счетчиков</string>
+    <string name="email_message">"Период с %1$s по %2$s \nХ.С.В. Предыдущие %3$s Текущие %4$s Разница %5$s\nГ.С.В. Предыдущие %6$s Текущие %7$s Разница %8$s\n\nemail %9$s"</string>
+    <string name="msg_ethernet_fail">Отсутствует подключение к интернету</string>
+    <string name="msg_email_sending">Отправка сообщения</string>
+    <string name="msg_email_sending_success">Сообщение отправлено</string>
+    <string name="msg_email_sending_fail">Сообщение не было отправлено</string>
+    <string name="msg_history_empty">Ранее отправленные показания отсутствуют</string>
+    <string name="main_history_hot">"Г.С.В %1$s Разница %2$s"</string>
+    <string name="main_history_cold">"Х.С.В %1$s Разница %2$s"</string>
+    <string name="error">Ошибка</string>
+    <string name="settings_mail">Использовать свою почту</string>
+</resources>
